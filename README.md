@@ -13,8 +13,7 @@
 - :open_book: I'm a software developer currently pursuing my undergraduate degree in Computer Science at UFAL.
 
 - :technologist: Currently working as a FullStack developer at Audsat! we work with plants 🪴 and money 💸!
-- 
-
+  
 - :seedling: Exploring software engineering and AWS!
 
 - :weight_lifting_man: In my free time, I train in BJJ, although I'm not really good at it yet.
