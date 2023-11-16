@@ -12,7 +12,8 @@
 
 - :open_book: I'm a software developer currently pursuing my undergraduate degree in Computer Science at UFAL.
 
-- :technologist: Currently working as a FullStack developer at Vertex!
+- :technologist: Currently working as a FullStack developer at Audsat! we work with plants 🪴 and money 💸!
+- 
 
 - :seedling: Exploring software engineering and AWS!
 
