@@ -10,8 +10,10 @@
 <hr/>
 :man_technologist: Hey there, It is Pedro Here! <br/>
 
-- :open_book: I'm a software developer currently pursuing my undergraduate degree in Computer Science at UFAL.
-
+- :open_book: I'm a software developer mainly focused in java
+  
+- :desktop_computer: [Check out the website I'm working on!](https://waive.com.br/)
+  
 - :technologist: Currently working as a FullStack developer at Audsat! we work with plants 🪴 and money 💸!
   
 - :seedling: Exploring software engineering and AWS!
