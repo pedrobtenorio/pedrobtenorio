@@ -14,7 +14,7 @@
   
 - :desktop_computer: [Check out the website I'm working on!](https://waive.com.br/)
   
-- :technologist: Currently working as a FullStack developer at Audsat! we work with plants 🪴 and money 💸!
+- :technologist: Currently working as a FullStack developer at Meetime!
   
 - :seedling: Exploring software engineering and AWS!
 
