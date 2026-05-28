@@ -12,9 +12,10 @@
 
 - :open_book: I'm a software developer mainly focused in java
   
-- :desktop_computer: [Check out the website I'm working on!](https://waive.com.br/)
+- :desktop_computer: [Check out the websites I'm working on!](https://waive.so/)
+- :game_die: [Guia Rápido D&D](https://guiarapidodnd.netlify.app/guia)
   
-- :technologist: Currently working as a FullStack developer at Meetime!
+- :technologist: Currently working as a FullStack developer and squad Lead at Taking!
   
 - :seedling: Exploring software engineering and AWS!
 
